@@ -1,0 +1,1 @@
+This is a WIP portfolio website for myself that I plan to work on and finish over the summer.
