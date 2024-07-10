@@ -1,12 +1,30 @@
+a:link {
+    color: rgb(243, 187, 66);
+}
+a:hover {
+    color: orange;
+}
+a:visited {
+    color: rgb(243, 187, 66);
+}
 body {
     font-family: Arial, sans-serif; 
     margin: 1; 
     padding: 0; 
-    background-color: aquamarine;
+    background-color: whitesmoke;
 }
 h1 {
     text-align: center;
 }
 p {
     text-align: center;
+}
+.header-container{
+    text-align: right;
+    display: flex;
+    gap: 15px;
+    justify-content: right;
+}
+.header-container h2{
+    margin: 0;
 }
